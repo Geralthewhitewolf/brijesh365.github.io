@@ -1,2 +1,2 @@
 # brijesh365.github.io
-dad's website
+I'll be prototyping and trying out things with jekyll here
